@@ -1,4 +1,4 @@
-# mishti-blog
+# Mishti Blog
 
 Mishti Blog
 

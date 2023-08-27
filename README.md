@@ -1,6 +1,6 @@
-#BlogVista
+# BlogVista
 
-BlogVista
+
 
 BlogVista is a Content Management System (CMS) website developed using Node.js, Express.js, and Mongoose. This project aims to provide a platform for sharing Blogs on any topic
 

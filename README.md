@@ -1,9 +1,10 @@
-# Mishti Blog
+#BlogVista
 
-Mishti Blog
+BlogVista
 
-Mishti Blog is a Content Management System (CMS) website developed using Node.js, Express.js, and Mongoose. This project aims to provide a platform for sharing delightful culinary experiences, recipes, and sweet treats with a touch of creativity and charm.
-Features
+BlogVista is a Content Management System (CMS) website developed using Node.js, Express.js, and Mongoose. This project aims to provide a platform for sharing Blogs on any topic
+
+Features:
 
     User-Friendly Interface: An intuitive and user-friendly interface that enables users to seamlessly navigate and explore the world of culinary delights.
 
@@ -27,5 +28,4 @@ Technologies Used
 
 
 
-https://github.com/777VaishaliDev/mishti-blog/assets/141203511/9b49425a-4f7d-4c21-9b16-6c5bf5948c9d
 

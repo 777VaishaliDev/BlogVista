@@ -24,7 +24,13 @@ Technologies Used
 
     Mongoose: An elegant Object Data Modeling (ODM) library for MongoDB, enabling efficient interaction with the database.
 
-#Demo 
+# Demo 
+
+
+
+https://github.com/777VaishaliDev/BlogVista/assets/141203511/5304aa35-ac4a-4910-87a6-9aba42511d0c
+
+
 
 
 
